@@ -1,1 +1,1 @@
-Repositório temporário: as imagens ficam aqui só por alguns segundos enquanto o Instagram baixa.
+Imagens públicas dos pins do Pinterest. Precisam ficar aqui para o Pinterest buscar.
